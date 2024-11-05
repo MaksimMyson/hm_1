@@ -1,0 +1,68 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead th {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  tbody th {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  tbody tr:nth-child(1) td:nth-child(1) { background-color: #f7c6d6; }
+  tbody tr:nth-child(1) td:nth-child(2) { background-color: #d085b8; }
+  tbody tr:nth-child(1) td:nth-child(3) { background-color: #eb0da9; }
+  tbody tr:nth-child(1) td:nth-child(4) { background-color: #d085b8; }
+  tbody tr:nth-child(1) td:nth-child(5) { background-color: #e6b3cf; }
+  tbody tr:nth-child(1) td:nth-child(6) { background-color: #dc4287; }
+  tbody tr:nth-child(1) td:nth-child(7) { background-color: #e6b3cf; }
+  
+  tbody tr:nth-child(2) td:nth-child(1) { background-color: #e8c8d8; }
+  tbody tr:nth-child(2) td:nth-child(2) { background-color: #c05b9c; }
+  tbody tr:nth-child(2) td:nth-child(3) { background-color: #d287b8; }
+  tbody tr:nth-child(2) td:nth-child(4) { background-color: #b05396; }
+  tbody tr:nth-child(2) td:nth-child(5) { background-color: #d287b8; }
+  tbody tr:nth-child(2) td:nth-child(6) { background-color: #a7458c; }
+  tbody tr:nth-child(2) td:nth-child(7) { background-color: #dc3d72; }
+  
+  
+    tbody tr:nth-child(3) td:nth-child(1) { background-color: #f7c6d6; }
+    tbody tr:nth-child(3) td:nth-child(2) { background-color: #d085b8; }
+    tbody tr:nth-child(3) td:nth-child(3) { background-color: #efc6e3; }
+    tbody tr:nth-child(3) td:nth-child(4) { background-color: #f7c6d6; }
+    tbody tr:nth-child(3) td:nth-child(5) { background-color: #e6b3cf; }
+    tbody tr:nth-child(3) td:nth-child(6) { background-color: #d59ab5; }
+    tbody tr:nth-child(3) td:nth-child(7) { background-color: #e2a1b6; }
+
+    tbody tr:nth-child(4) td:nth-child(1) { background-color: #e8c8d8; }
+    tbody tr:nth-child(4) td:nth-child(2) { background-color: #c05b9c; }
+    tbody tr:nth-child(4) td:nth-child(3) { background-color: #d287b8; }
+    tbody tr:nth-child(4) td:nth-child(4) { background-color: #b05396; }
+    tbody tr:nth-child(4) td:nth-child(5) { background-color: #d287b8; }
+    tbody tr:nth-child(4) td:nth-child(6) { background-color: #a7458c; }
+    tbody tr:nth-child(4) td:nth-child(7) { background-color: #b45474; }
+
+    
+
+    
+
+    
+
+
+
+
+  
